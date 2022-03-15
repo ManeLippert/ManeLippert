@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 💡 Physicist: Nuclear Fusion 
+
 🐧 Linux-User: Pop!_OS  
+
 📚 Languages: 🐍, ☕, Ⓒ++
 
 <!--
