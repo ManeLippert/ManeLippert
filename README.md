@@ -1,10 +1,8 @@
 ### Hello there 👋
 
-💡 Physicist: Nuclear Fusion 
-
-🐧 Linux-User: Pop!_OS  
-
-📚 Languages: 🐍, ☕, Ⓒ++
+<p>💡 Physicist: Nuclear Fusion <br>
+🐧 Linux-User: Pop!_OS <br>
+📚 Languages: 🐍, ☕, Ⓒ++ </p>
 
 <!--
 **ManeLippert/ManeLippert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
