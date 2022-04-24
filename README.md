@@ -1,12 +1,12 @@
 <!--### Hello there 👋-->
 <div align="center">
   
-|   |             |                     |   |
-|:-:|:------------|:--------------------|:-:|
-|   |💡 Physicist | Nuclear Fusion      |   |
-|   |🐧 Linux-User| Pop!_OS             |   |
-|   |📚 Languages | 🐍, ☕, Ⓒ++         |   |
-|   |             |                     |   |
+|             |                     |
+|:------------|:--------------------|
+|💡 Physicist | Nuclear Fusion      |
+|🐧 Linux-User| Pop!_OS             |
+|📚 Languages | 🐍, ☕, Ⓒ++         |
+|             |                     |
   
 </div>
   
