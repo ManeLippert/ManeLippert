@@ -1,5 +1,5 @@
 <!--### Hello there 👋-->
-<center>
+<div align="center">
   
 |   |             |                     |   |
 |:-:|:------------|:--------------------|:-:|
@@ -8,7 +8,7 @@
 |   |📚 Languages | 🐍, ☕, Ⓒ++         |   |
 |   |             |                     |   |
   
-</center>
+</div>
   
 <!--
 **ManeLippert/ManeLippert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
