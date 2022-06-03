@@ -1,8 +1,6 @@
 <!--### Hello there 👋-->
 
 <div align="center">
-
-   💡 Physicist &#8594; Nuclear Fusion &nbsp; | &nbsp; 🐧 Linux-User &#8594; Pop!_OS 
    
 ![](https://raw.githubusercontent.com/ManeLippert/ManeLippert-GitHubStats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/ManeLippert/ManeLippert-GitHubStats/master/generated/languages.svg#gh-dark-mode-only)
