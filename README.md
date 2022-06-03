@@ -1,18 +1,12 @@
 <!--### Hello there 👋-->
 
+<div align="center">
+   
+![](https://raw.githubusercontent.com/ManeLippert/ManeLippert-GitHubStats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/ManeLippert/ManeLippert-GitHubStats/master/generated/languages.svg#gh-dark-mode-only)
 
-<!--GitHub Stats-->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ManeLippert&count_private=true&show_icons=true&theme=github_dark&hide=contribs" />
-<!--Languages-->
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManeLippert&hide=TeX&langs_count=8&theme=github_dark&layout=compact" />
-</a>
-  
+</div>
 
-
-
-  
 <!--
 **ManeLippert/ManeLippert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -43,6 +37,12 @@ For Wakatime:
 <a href="https://github.com/anuraghazra/convoychat">
    <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=ManeLippert&theme=github_dark&layout=" />
 </a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ManeLippert&count_private=true&show_icons=true&theme=github_dark&hide=contribs" />
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManeLippert&hide=TeX&langs_count=8&theme=github_dark&layout=compact" />
+</a>
+  
 
 Old Version:
 <div align="center">
