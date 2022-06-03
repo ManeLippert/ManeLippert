@@ -1,6 +1,8 @@
 <!--### Hello there 👋-->
 <div align="center">
   
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManeLippert)](https://github.com/anuraghazra/github-readme-stats)
+  
 |             |                     |
 |:------------|:--------------------|
 |💡 Physicist | Nuclear Fusion      |
