@@ -1,5 +1,5 @@
 <!--### Hello there 👋-->
-<div align="center">
+
 
 <!--GitHub Stats-->
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -15,7 +15,7 @@
 <a href="https://github.com/anuraghazra/convoychat">
    <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=ManeLippert&theme=github_dark&layout=" />
 </a>
-</div>
+
 
   
 <!--
@@ -46,10 +46,12 @@ For Wakatime:
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ManeLippert&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 Old Version:
+<div align="center">
 |             |                     |
 |:------------|:--------------------|
 |💡 Physicist | Nuclear Fusion      |
 |🐧 Linux-User| Pop!_OS             |
 |📚 Languages | 🐍, ☕, Ⓒ++         |
 |             |                     |
+</div>
 -->
