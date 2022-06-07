@@ -2,8 +2,20 @@
 
 <div align="center">
    
-![](https://raw.githubusercontent.com/ManeLippert/ManeLippert-GitHubStats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/ManeLippert/ManeLippert-GitHubStats/master/generated/languages.svg#gh-dark-mode-only)
+   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ManeLippert&theme=github_dark)
+   
+   <a>
+   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ManeLippert&theme=github_dark" />
+      
+   <a>
+   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ManeLippert&theme=github_dark&utcOffset=8" />
+   
+   <a>
+   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ManeLippert&theme=github_dark" />
+   <a>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ManeLippert&theme=github_dark" />
+   </a>
+      
 
 </div>
 
@@ -42,6 +54,11 @@ For Wakatime:
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManeLippert&hide=TeX&langs_count=8&theme=github_dark&layout=compact" />
 </a>
+
+GitHubStats Advanced:
+
+![](https://raw.githubusercontent.com/ManeLippert/ManeLippert-GitHubStats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/ManeLippert/ManeLippert-GitHubStats/master/generated/languages.svg#gh-dark-mode-only)
   
 
 Old Version:
