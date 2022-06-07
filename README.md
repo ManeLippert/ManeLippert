@@ -2,8 +2,6 @@
 
 <div align="center">
    
-   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ManeLippert&theme=github_dark)
-   
    <a>
    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ManeLippert&theme=github_dark" />
       
@@ -60,6 +58,9 @@ GitHubStats Advanced:
 ![](https://raw.githubusercontent.com/ManeLippert/ManeLippert-GitHubStats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/ManeLippert/ManeLippert-GitHubStats/master/generated/languages.svg#gh-dark-mode-only)
   
+GitHub Summary:
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ManeLippert&theme=github_dark)
+   
 
 Old Version:
 <div align="center">
