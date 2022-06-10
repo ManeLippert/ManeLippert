@@ -1,13 +1,6 @@
 <!--### Hello there 👋-->
 
-<div align="center">
-   
-   
-![](https://raw.githubusercontent.com/ManeLippert/ManeLippert-GitHubStats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/ManeLippert/ManeLippert-GitHubStats/master/generated/languages.svg#gh-dark-mode-only)
-      
-
-</div>
+### Hello there 👋
 
 <!--
 **ManeLippert/ManeLippert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
