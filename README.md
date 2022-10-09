@@ -2,8 +2,6 @@
 
 <div align="center">
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=manelippert.manelippert)
-
 ![](https://raw.githubusercontent.com/ManeLippert/ManeLippert-GitHubStats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/ManeLippert/ManeLippert-GitHubStats/master/generated/languages.svg#gh-dark-mode-only)
 
