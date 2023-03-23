@@ -8,9 +8,6 @@
 ![](https://raw.githubusercontent.com/ManeLippert/ManeLippert-GitHubStats/master/generated/languages.svg#gh-dark-mode-only)
 
 </div>
-
-[![](https://visitcount.itsvg.in/api?id=ManeLippert&icon=2&color=1)](https://visitcount.itsvg.in)[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mane_lippert) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mane_lippert) 
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 **ManeLippert/ManeLippert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -78,4 +75,8 @@ Old Version:
 |📚 Languages | 🐍, ☕, Ⓒ++         |
 |             |                     |
 </div>
+
+[![](https://visitcount.itsvg.in/api?id=ManeLippert&icon=2&color=1)](https://visitcount.itsvg.in)[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mane_lippert) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mane_lippert) 
+
+
 -->
