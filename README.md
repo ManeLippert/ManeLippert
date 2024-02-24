@@ -4,8 +4,8 @@
 
 <div align="center">
 
-![](https://raw.githubusercontent.com/ManeLippert/ManeLippert-GitHubStats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/ManeLippert/ManeLippert-GitHubStats/master/generated/languages.svg#gh-dark-mode-only)
+[![Stats](https://github-readme-stats.vercel.app/api?username=ManeLippert&hide_title=true&show_icons=true&include_all_commits=true&bg_color=00000000&border_color=00000000&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManeLippert&layout=compact&bg_color=00000000&border_color=00000000&hide_title=true&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
