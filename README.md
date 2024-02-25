@@ -1,11 +1,15 @@
 <!--### Hello there 👋-->
 
+<div align="center">
+
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+
+</div>
 
 <div align="center">
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=ManeLippert&hide_title=true&show_icons=true&include_all_commits=true&bg_color=00000000&border_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManeLippert&layout=compact&bg_color=00000000&border_color=00000000&hide_title=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=ManeLippert&hide_title=true&show_icons=true&bg_color=940042&hide_border=true&border_radius=0&icon_color=ffffff&text_color=ffffff&include_all_commits=true&ring_color=04EB8B&disable_animations=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManeLippert&layout=compact&bg_color=940042&hide_border=true&hide_title=false&langs_count=6&border_radius=0&icon_color=ffffff&text_color=ffffff&title_color=ffffff&disable_animations=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
