@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=ManeLippert&hide_title=true&show_icons=true&bg_color=940042&hide_border=true&border_radius=0&icon_color=ffffff&text_color=ffffff&include_all_commits=true&ring_color=04EB8B&disable_animations=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=ManeLippert&hide_title=true&show_icons=true&bg_color=940042&hide_border=true&border_radius=0&&icon_color=ffffff&text_color=ffffff&include_all_commits=true&disable_animations=false&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManeLippert&layout=compact&bg_color=940042&hide_border=true&hide_title=false&langs_count=6&border_radius=0&icon_color=ffffff&text_color=ffffff&title_color=ffffff&disable_animations=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
